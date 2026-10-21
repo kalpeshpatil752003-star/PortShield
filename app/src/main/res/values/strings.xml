@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PortShield</string>
+    <string name="app_subtitle">Android USB Security Monitor &amp; Risk Demonstrator</string>
+
+    <!-- Screen Titles -->
+    <string name="title_assessment">Security Assessment</string>
+    <string name="title_usb_inspect">USB Device Inspector</string>
+    <string name="title_history">Security Event History</string>
+    <string name="title_event_detail">Event Record Detail</string>
+    <string name="title_settings">Settings &amp; About</string>
+
+    <!-- Disclaimers & Honesty Labels -->
+    <string name="disclaimer_banner">Educational &amp; diagnostic tool: Distinguishes real USB Host observations from simulated scenarios. Does not provide hardware-level data blocking or guaranteed BadUSB detection.</string>
+    <string name="threshold_disclaimer">Provisional Thresholds (Illustrative Only): 0–24 Low Indicated Risk | 25–49 Caution | 50–74 High Concern | 75–100 Critical Concern</string>
+
+    <!-- Dashboard Labels -->
+    <string name="label_monitoring_status">USB Host Monitoring Status</string>
+    <string name="label_connection_state">Current Connection State</string>
+    <string name="label_latest_assessment">Latest Security Assessment</string>
+    <string name="label_simulation_controls">Demonstration Scenario Controls (Simulated)</string>
+    <string name="label_navigation_actions">Inspection &amp; Event Management</string>
+
+    <!-- Scenario Buttons -->
+    <string name="btn_sim_safe">Simulate: Safe Charging (5/100)</string>
+    <string name="btn_sim_data">Simulate: Unexpected Data Connection (35/100)</string>
+    <string name="btn_sim_hid">Simulate: Suspicious HID / BadUSB (85/100)</string>
+
+    <!-- Navigation Buttons -->
+    <string name="btn_inspect_usb">Inspect Accessible USB Devices</string>
+    <string name="btn_view_history">Open Security Event History</string>
+    <string name="btn_open_settings">Settings &amp; Demo Preferences</string>
+    <string name="btn_scan_usb">Scan Connected USB Devices</string>
+    <string name="btn_assess_observed">Evaluate Observed USB State</string>
+    <string name="btn_save_assessment">Save Assessment to SQLite</string>
+    <string name="btn_back_dashboard">Return to Dashboard</string>
+</resources>

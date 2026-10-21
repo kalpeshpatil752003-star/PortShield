@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Core Dark Cybersecurity Surfaces -->
+    <color name="bg_navy_primary">#0A1124</color>
+    <color name="bg_navy_card">#131E3A</color>
+    <color name="bg_navy_elevated">#1C2B4F</color>
+    <color name="border_subtle">#293B6A</color>
+
+    <!-- Brand & Accent Colors -->
+    <color name="accent_cyan">#00D2FF</color>
+    <color name="accent_blue">#3B82F6</color>
+
+    <!-- Semantic Risk Indicators -->
+    <color name="risk_low_green">#10B981</color>
+    <color name="risk_caution_amber">#F59E0B</color>
+    <color name="risk_high_orange">#F97316</color>
+    <color name="risk_critical_red">#EF4444</color>
+    <color name="risk_unknown_gray">#64748B</color>
+
+    <!-- Source & Status Badge Colors -->
+    <color name="badge_simulated_purple">#8B5CF6</color>
+    <color name="badge_observed_teal">#0EA5E9</color>
+
+    <!-- Typography -->
+    <color name="text_primary">#F8FAFC</color>
+    <color name="text_secondary">#94A3B8</color>
+    <color name="text_muted">#64748B</color>
+    <color name="white">#FFFFFF</color>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.PortShield" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/bg_navy_card</item>
+        <item name="colorPrimaryVariant">@color/bg_navy_primary</item>
+        <item name="colorOnPrimary">@color/text_primary</item>
+        <item name="colorSecondary">@color/accent_cyan</item>
+        <item name="colorOnSecondary">@color/bg_navy_primary</item>
+        <item name="android:windowBackground">@color/bg_navy_primary</item>
+        <item name="android:statusBarColor">@color/bg_navy_primary</item>
+        <item name="android:navigationBarColor">@color/bg_navy_primary</item>
+    </style>
+</resources>
